@@ -1,8 +1,5 @@
 name = "cf-worker"
-type = "webpack"
 
 account_id = "896dd5085c171ac12cffd900d13582e1"
 workers_dev = true
-route = ""
-zone_id = ""
 compatibility_date = "2022-04-11"

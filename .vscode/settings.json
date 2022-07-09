@@ -1,0 +1,8 @@
+{
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/.history": true,
+    "**/dist": true,
+    "package-lock.json": true
+  }
+}
